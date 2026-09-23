@@ -1,0 +1,25 @@
+{
+    "schema_version":  1,
+    "skills":  {
+                   "social-promo-banner-style":  {
+                                                     "path":  "skills/custom/social-promo-banner-style",
+                                                     "version":  "1.0.0",
+                                                     "type":  "custom",
+                                                     "status":  "stable",
+                                                     "tags":  [
+                                                                  "marketing",
+                                                                  "design",
+                                                                  "image"
+                                                              ]
+                                                 },
+                   "i-have-adhd":  {
+                                       "path":  "skills/incubator/i-have-adhd",
+                                       "version":  "0.1.0",
+                                       "type":  "incubator",
+                                       "status":  "unreviewed",
+                                       "tags":  [
+
+                                                ]
+                                   }
+               }
+}

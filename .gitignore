@@ -1,0 +1,32 @@
+# Local output and temporary data
+exports/*
+!exports/.gitkeep
+.tmp/
+tmp/
+temp/
+*.tmp
+*.bak
+*.log
+__pycache__/
+*.py[cod]
+node_modules/
+.pytest_cache/
+.DS_Store
+Thumbs.db
+
+# Credentials and local configuration
+.env
+.env.*
+!.env.example
+*credentials*
+*secret*
+*.pem
+*.key
+*.pfx
+*.p12
+id_rsa*
+id_ed25519*
+
+# Bản gốc lịch sử ở root; bản quản lý nằm trong skills/ và knowledge/
+/social-promo-banner.md
+/tramsangtao-marketing-knowledge-base.md

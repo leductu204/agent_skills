@@ -1,0 +1,9 @@
+name: example-skill
+source: ""
+upstream_version: ""
+upstream_commit: ""
+downloaded: ""
+license: ""
+modified: false
+local_version: 0.1.0
+review_status: unreviewed
